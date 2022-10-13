@@ -1,3 +1,4 @@
 # GitBook-Note
-Test note.
+## Test note
+<br/>
 HaHa!
